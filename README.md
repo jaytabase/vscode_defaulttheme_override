@@ -15,3 +15,5 @@ Quick and easy way to override the default "Dark Plus (Default)" theme a in VS c
 1. When you are done, go back to ```%userprofile%\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\theme-defaults\themes``` and make a copy of dark_plus.json. Then when installing VS Code on a new machine, all you need to do is navigate to the same folder and replace the original dark_plus.json with your own :)
 
 2. To revert you can always visit the [Official dark_plus.json](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_plus.json) repository and download the original version should you want to go back.
+
+3. You can skip all the above (if you want the night owl theme) and just download the [modified JSON file](https://github.com/jaytabase/vscode_defaulttheme_override/blob/main/dark_plus.json).
